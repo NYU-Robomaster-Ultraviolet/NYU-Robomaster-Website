@@ -1,2 +1,2 @@
 # Website
-NYU Robomaster's website
+NYU Robomaster website.
